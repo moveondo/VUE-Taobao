@@ -2,6 +2,8 @@
 
 > a vue project
 
+* 此项目适合vue初学者入门
+
 ## Build Setup
 
 ``` bash
